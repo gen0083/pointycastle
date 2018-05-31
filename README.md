@@ -1,6 +1,8 @@
 Pointy Castle
 =============
 
+[![pub package](https://img.shields.io/pub/v/pointycastle.svg)](https://pub.dartlang.org/packages/pointycastle) [![pub package](https://img.shields.io/badge/dynamic/json.svg?label=pub&url=https%3A%2F%2Fpub.dartlang.org%2Fpackages%2Fpointycastle.json&query=%24.versions%5B%3F(%40%3D%3D%221.0.0-rc1%22)%5D&colorB=fe7d37)](https://pub.dartlang.org/packages/pointycastle/versions/1.0.0-rc1)
+
 A Dart library for encryption and decryption. As of today, most of the classes
 are ports of Bouncy Castle from Java to Dart. The porting is almost always
 direct except for some classes that had been added to ease the use of low level
